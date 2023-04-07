@@ -9,7 +9,7 @@ colorScheme = "congo"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 
-enableSearch = true
+enableSearch = false
 enableCodeCopy = false
 
 # robots = ""
