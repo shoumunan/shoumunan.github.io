@@ -19,7 +19,7 @@ jobs:
       - name: Build
         run: hugo mod get && hugo --minify
       - name: CNAME
-        run: echo "blog.shoumunan.com" > CNAME
+        run: echo "blog.shoumunan.com" > public/CNAME
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
