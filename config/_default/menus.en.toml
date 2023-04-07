@@ -16,24 +16,14 @@
   weight = 10
 
 [[main]]
-  name = "分类"
+  name = "Categories"
   pageRef = "categories"
   weight = 20
-
-[[main]]
-  name = "Tags"
-  weight = 30
-  pageRef = "tags"
 
 [[main]]
 	name = "About"
 	weight = 40
 	pageRef = "about"
-	
-[[main]]
-	name = "新加标签"
-	weight = 50
-	pageRef = "test"
 
 [[main]]
   identifier = "search"

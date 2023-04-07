@@ -1,11 +1,11 @@
 ---
-title: "First"
+title: "hello world"
 date: 2023-04-07T21:15:54+08:00
 draft: flase
-description: "。。"
-summary: "。。"
-slug: "homepage-layout"
-tags: ["homepage", "layouts", "docs"]
+description: "hello world"
+summary: "hello world"
+slug: "hello-world"
+categories: ["hello"]
 ---
 
 
