@@ -12,3 +12,10 @@ categories: ["hello"]
 
 一如往常，在几经折腾后，博客又迁移了一个域名，且换上了新的主题。  
 
+&nbsp;
+
+
+
+&nbsp;
+
+mail: shou@shoumunan.com
