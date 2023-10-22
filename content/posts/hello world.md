@@ -18,4 +18,4 @@ categories: ["hello"]
 
 &nbsp;
 
-mail: shou@shoumunan.com
+mail: shoumunan@msn.com
