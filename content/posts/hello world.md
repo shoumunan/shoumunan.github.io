@@ -1,7 +1,7 @@
 ---
 title: "hello world"
 date: 2023-04-08T22:22:22+08:00
-draft: flase
+draft: false
 description: "hello world"
 summary: "hello world"
 slug: "hello-world"
